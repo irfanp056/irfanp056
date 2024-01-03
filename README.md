@@ -69,6 +69,7 @@
 - ### Visualisation
     <img align="left" alt="PowerBI" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/powerBI-Logo.png"  title="PowerBI"/>
 <img align="left" alt="Tableau" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Tableau-Logo.png"  title="Tableau"/>
+<img align="left" alt="MS Excel" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Microsoft-Excel-Logo.png"  title="MS Excel"/>
 </br>
 </br>
 
