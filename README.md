@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hi there, I am Irfan 👋
+
+## I'm a Trader, Developer, and Data Enthusiast!!
+
+- 🔭 I’m currently working on Crypto Trading Bots...
+- 🌱 I’m currently learning Data Analysis, Machine Learning, Deep Learning and Computer Vision...
+- 👯 I’m looking to collaborate with LLM, Analytics, AWS, Data Analysis, Python, Power BI, SQL,...
+- 🥅 2024 Goals: Contribute more to Open Source projects and AI Innovation Challenges. To Create an Impact through Artificial Intelligence.
+- ⚡ Fun fact: When I was younger, I wanted to be an archaeologist because of the Indiana Jones movies. 
+
+## Languages and Tools:
+
+### Versioning Tools
+<img align="left" alt="Git" width="26px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Git-logo.svg.png"  title="Git"/>
+
 
 <!--
 **irfanp056/irfanp056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
