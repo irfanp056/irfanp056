@@ -11,7 +11,7 @@
 ## Languages and Tools:
 
 ### Versioning Tools
-<img align="left" alt="Git" width="26px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Git-logo.svg.png"  title="Git"/>
+<img align="left" alt="Git" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Git-logo.svg.png"  title="Git"/>
 
 
 <!--
