@@ -10,21 +10,21 @@
 
 ## Languages and Tools:
 
-### Versioning Tools
-<img align="left" alt="Git" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Git-logo.svg.png"  title="Git"/>
+- ### Versioning Tools
+    <img align="left" alt="Git" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Git-logo.svg.png"  title="Git"/>
 <img align="left" alt="DVC" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/DvC.png"  title="DVC"/>
 </br>
 </br>
 
-### Data Processing & Scheduling
-<img align="left" alt="Apache Sparks" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Apache_Spark.png"  title="Apache Sparks"/>
+- ### Data Processing & Scheduling
+    <img align="left" alt="Apache Sparks" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Apache_Spark.png"  title="Apache Sparks"/>
 <img align="left" alt="Apache Airflow" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/AirflowLogo.png"  title="Apache Airflow"/>
 <img align="left" alt="Apache nifi" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Apache-nifi-logo.png"  title="Apache nifi"/>
 </br>
 </br>
 
-### Frameworks
-<img align="left" alt="Pytorch" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PyTorch_logo.png"  title="Pytorch"/>
+- ### Frameworks
+    <img align="left" alt="Pytorch" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PyTorch_logo.png"  title="Pytorch"/>
 <img align="left" alt="Huggingface " width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Hugging_Face.png"  title="Huggingface "/>
 <img align="left" alt="Tensorflow" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/tensorflow_logo.png" title="Tensorflow"/>
 <img align="left" alt="Fast.ai" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Fast_AI.png"  title="Fast.ai"/>
@@ -32,76 +32,76 @@
 </br>
 </br>
 
-### Orchestration Tools
-<img align="left" alt="Docker" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/docker_logo.png"  title="Docker"/>
+- ### Orchestration Tools
+    <img align="left" alt="Docker" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/docker_logo.png"  title="Docker"/>
 <img align="left" alt="Kubernetes" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Kubernetes.png"  title="Kubernetes"/>
 </br>
 </br>
 
-### IaC Tool
-<img align="left" alt="Terraform" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/terraform.png"  title="Terraform"/>
+- ### IaC Tool
+    <img align="left" alt="Terraform" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/terraform.png"  title="Terraform"/>
 </br>
 </br>
 
-### Front end
-<img align="left" alt="Streamlit" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Streamlit.png"  title="Streamlit"/>
+- ### Front end
+    <img align="left" alt="Streamlit" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Streamlit.png"  title="Streamlit"/>
 <img align="left" alt="Flask" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Flask_logo.svg.png"  title="Flask"/>
 <img align="left" alt="Django" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Django.png"  title="Django"/>
 </br>
 </br>
 
-### Coding Languages
-<img align="left" alt="Python" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/python.png"  title="Python"/>
+- ### Coding Languages
+    <img align="left" alt="Python" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/python.png"  title="Python"/>
 <img align="left" alt="C++" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/C%2B%2B_Logo.png"  title="C++"/>
 <img align="left" alt="R" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/R_logo.png"  title="R"/>
 <img align="left" alt="Matlab" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/MATLAB-logo.png"  title="Matlab"/>
 </br>
 </br>
 
-### External Systems
-<img align="left" alt="Github" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Github.png"  title="Github"/>
+- ### External Systems
+    <img align="left" alt="Github" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Github.png"  title="Github"/>
 <img align="left" alt="DagsHub" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/DagsHub.png"  title="DagsHub"/>
 <img align="left" alt="Jira" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Jira-Logo.png"  title="Jira"/>
 <img align="left" alt="Amazon Sagemaker" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/AWS-sagemaker.png"  title="Amazon Sagemaker"/>
 </br>
 </br>
 
-### Visualisation
-<img align="left" alt="PowerBI" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/powerBI-Logo.png"  title="PowerBI"/>
+- ### Visualisation
+    <img align="left" alt="PowerBI" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/powerBI-Logo.png"  title="PowerBI"/>
 <img align="left" alt="Tableau" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Tableau-Logo.png"  title="Tableau"/>
 </br>
 </br>
 
-### Experiment Tracking Management
-<img align="left" alt="MLflow" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/MLflow-logo.png"  title="MLflow"/>
+- ### Experiment Tracking Management
+    <img align="left" alt="MLflow" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/MLflow-logo.png"  title="MLflow"/>
 <img align="left" alt="Tensorboard" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/tensorboard-logo.png"  title="Tensorboard"/>
 <img align="left" alt="Weights & Biases" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/wandb-logo.png"  title="Weights & Biases"/>
 </br>
 </br>
 
-### Observability tools
-<img align="left" alt="Grafana" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Grafana_logo.png"  title="Grafana"/>
+-  ### Observability tools
+    <img align="left" alt="Grafana" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Grafana_logo.png"  title="Grafana"/>
 <img align="left" alt="Prometheus" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Prometheus.png"  title="Prometheus"/>
 <img align="left" alt="DataDog" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/dd_logo_v_rgb.png"  title="DataDog"/>
 </br>
 </br>
 
-### NLP
-<img align="left" alt="Google BERT" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Google_BERT.png"  title="Google BERT"/>
+- ### NLP
+    <img align="left" alt="Google BERT" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Google_BERT.png"  title="Google BERT"/>
 <img align="left" alt="Rasa" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/rasa_logo.png"  title="Rasa"/>
 <img align="left" alt="SpaCy" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/SpaCy_logo.png"  title="SpaCy"/>
 </br>
 </br>
 
-### IDEs
-<img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/visual-studio-code.png"  title="Visual Studio Code"/>
+- ### IDEs
+    <img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/visual-studio-code.png"  title="Visual Studio Code"/>
 <img align="left" alt="RSudio" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/RStudio.png"  title="RSudio"/>
 <img align="left" alt="Jupyter Notebook" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Jupyter_logo.png"  title="Jupyter Notebook"/>
 <img align="left" alt="PyCharm" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PyCharm_Icon.png"  title="PyCharm"/>
 </br>
 </br>
 
-### Databases
+- ### Databases
 <img align="left" alt="Microsoft SQL Server" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/sqlserver.png"  title="Microsoft SQL Server"/>
 <img align="left" alt="MongoDB" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/MongoDB_Logo.png"  title="MongoDB"/>
 <img align="left" alt="Postgres" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PostgreSQL-Logo.png"  title="Postgres"/>
@@ -109,8 +109,8 @@
 </br>
 </br>
 
-### Large Data Processing
-<img align="left" alt="Azure Data Factory" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Azure%20Data%20Factory.png"  title="Azure Data Factory"/>
+- ### Large Data Processing
+    <img align="left" alt="Azure Data Factory" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Azure%20Data%20Factory.png"  title="Azure Data Factory"/>
 <img align="left" alt="Databricks" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Databricks_Logo.png"  title="Databricks"/>
 </br>
 </br>
