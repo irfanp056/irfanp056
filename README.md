@@ -108,7 +108,7 @@
 
 - ### IDEs
     <img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/visual-studio-code.png"  title="Visual Studio Code"/>
-<img align="left" alt="RSudio" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/RStudio.png"  title="RSudio"/>
+<img align="left" alt="RSudio" width="80px" src="https://github.com/irfanp056/irfanp056/blob/main/img/RStudio.png"  title="RSudio"/>
 <img align="left" alt="Jupyter Notebook" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Jupyter_logo.png"  title="Jupyter Notebook"/>
 <img align="left" alt="PyCharm" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PyCharm_Icon.png"  title="PyCharm"/>
 </br>
