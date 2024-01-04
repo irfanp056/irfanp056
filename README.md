@@ -32,6 +32,12 @@
 </br>
 </br>
 
+- ### Cloud Platforms
+    <img align="left" alt="AWS" width="120px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PyTorch_logo.png"  title="AWS"/>
+  <img align="left" alt="IBM" width="120px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PyTorch_logo.png"  title="IBM"/>
+</br>
+</br>
+
 - ### Orchestration Tools
     <img align="left" alt="Docker" width="70px" src="https://github.com/irfanp056/irfanp056/blob/main/img/docker_logo.png"  title="Docker"/>
 <img align="left" alt="Kubernetes" width="70px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Kubernetes.png"  title="Kubernetes"/>
