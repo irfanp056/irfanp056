@@ -33,8 +33,9 @@
 </br>
 
 - ### Cloud Platforms
-    <img align="left" alt="AWS" width="120px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PyTorch_logo.png"  title="AWS"/>
-  <img align="left" alt="IBM" width="120px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PyTorch_logo.png"  title="IBM"/>
+    <img align="left" alt="AWS" width="70px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Amazon_Web_Services_Logo.png"  title="AWS"/>
+  <img align="left" alt="IBM" width="80px" src="https://github.com/irfanp056/irfanp056/blob/main/img/ibm-cloud.png"  title="IBM"/>
+  
 </br>
 </br>
 
