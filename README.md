@@ -2,11 +2,11 @@
 
 ## I'm a Trader, Developer, and Data Enthusiast!!
 
-- 🔭 I’m currently working on Crypto Trading Bots...
-- 🌱 I’m currently learning Data Analysis, Machine Learning, Deep Learning and Computer Vision...
-- 👯 I’m looking to collaborate with LLM, Analytics, AWS, Data Analysis, Python, Power BI, SQL,...
-- 🥅 2024 Goals: Contribute more to Open Source projects and AI Innovation Challenges. To Create an Impact through Artificial Intelligence.
-- ⚡ Fun fact: When I was younger, I wanted to be an archaeologist because of the Indiana Jones movies. 
+- 🔭 I’m currently working on Crypto Trading Bots.
+- 🌱 I’m currently learning Data Analysis, Statistics, Machine Learning, Deep Learning and Computer Vision.
+- 👯 I’m looking to collaborate with LLM, Analytics, AWS, Data Analysis, Python, Power BI and SQL.
+- 🥅 2024 Goals: Contribute more to Open Source projects and AI Innovation Challenges, To Create an Impact through Artificial Intelligence.
+- ⚡ Fun fact: When I was younger, I wanted to be an Astronaut because of the Star Wars movies.
 
 ## Languages and Tools:
 
