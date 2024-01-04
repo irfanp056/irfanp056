@@ -57,6 +57,9 @@
 <img align="left" alt="C++" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/C%2B%2B_Logo.png"  title="C++"/>
 <img align="left" alt="R" width="50px" src="https://github.com/irfanp056/irfanp056/blob/main/img/R_logo.png"  title="R"/>
 <img align="left" alt="Matlab" width="90px" src="https://github.com/irfanp056/irfanp056/blob/main/img/MATLAB-logo.png"  title="Matlab"/>
+<img align="left" alt="Pine Script" width="70px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Pine_Script_logo_text.png"  title="Pine Script"/>
+<img align="left" alt="MQL5" width="70px" src="https://github.com/irfanp056/irfanp056/blob/main/img/logo_mql5-2.png"  title="MQL5"/>
+</br>
 </br>
 </br>
 
