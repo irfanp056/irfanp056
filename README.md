@@ -44,6 +44,7 @@
 <img align="left" alt="Kubernetes" width="70px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Kubernetes.png"  title="Kubernetes"/>
 </br>
 </br>
+</br>
 
 - ### IaC Tool
     <img align="left" alt="Terraform" width="90px" src="https://github.com/irfanp056/irfanp056/blob/main/img/terraform.png"  title="Terraform"/>
@@ -116,15 +117,15 @@
 
 - ### Databases
 <img align="left" alt="Microsoft SQL Server" width="90px" src="https://github.com/irfanp056/irfanp056/blob/main/img/sqlserver.png"  title="Microsoft SQL Server"/>
-<img align="left" alt="MongoDB" width="90px" src="https://github.com/irfanp056/irfanp056/blob/main/img/MongoDB_Logo.png"  title="MongoDB"/>
-<img align="left" alt="Postgres" width="90px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PostgreSQL-Logo.png"  title="Postgres"/>
+<img align="left" alt="MongoDB" width="120px" src="https://github.com/irfanp056/irfanp056/blob/main/img/MongoDB_Logo.png"  title="MongoDB"/>
+<img align="left" alt="Postgres" width="100px" src="https://github.com/irfanp056/irfanp056/blob/main/img/PostgreSQL-Logo.png"  title="Postgres"/>
 <img align="left" alt="MySQL" width="90px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Mysql_logo.png"  title="MySQL"/>
 </br>
 </br>
 
 - ### Large Data Processing
-    <img align="left" alt="Azure Data Factory" width="90px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Azure%20Data%20Factory.png"  title="Azure Data Factory"/>
-<img align="left" alt="Databricks" width="90px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Databricks_Logo.png"  title="Databricks"/>
+    <img align="left" alt="Azure Data Factory" width="100px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Azure%20Data%20Factory.png"  title="Azure Data Factory"/>
+<img align="left" alt="Databricks" width="100px" src="https://github.com/irfanp056/irfanp056/blob/main/img/Databricks_Logo.png"  title="Databricks"/>
 </br>
 </br>
 
