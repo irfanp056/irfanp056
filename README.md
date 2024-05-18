@@ -1,4 +1,33 @@
-## Hi there, I am Irfan 👋
+```python
+########### Ｈｅｌｌｏ, Ｆｒｉｅｎｄ! ##########
+###  ██ ██████  ███████  █████  ███    ██  ###
+###  ██ ██   ██ ██      ██   ██ ████   ██  ###
+###  ██ ██████  █████   ███████ ██ ██  ██  ###
+###  ██ ██   ██ ██      ██   ██ ██  ██ ██  ###
+###  ██ ██   ██ ██      ██   ██ ██   ████  ###
+##############################################
+                       
+class About:
+    """
+    This class is about me! :D
+    """
+    def __init__(self):
+        self.location  = ["Mumbai, Maharashtra", "Everywhere"]
+        self.education = "BE in Mechanical Engineering"
+        self.languages = ["English", "Hindi", "Marathi"]
+        self.interests = ["Coding", "Crypto", "Finance", "Gaming"]
+        self.skills    = ["Python", "MQL5", "Matlab", "R"]
+        self.links     = {
+                            "LinkedIn"   : "https://linkedin.com/in/irfanp056",
+                            "Twitter"    : "https://twitter.com/irfanp056",
+                            "TradingView": "https://tradingview.com/u/irfanp056/#published-scripts",
+                            "HackerRank" : "https://hackerrank.com/irfanp056",
+                            "Discord"    : "@irfanp056",
+                            "Telegram"   : "@irfanp056"
+                         }
+
+Irfan_Pathan = About()
+```
 
 ## I'm a Trader, Developer, and Data Enthusiast!!
 
